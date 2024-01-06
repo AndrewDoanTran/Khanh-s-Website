@@ -1,0 +1,38 @@
+body
+{
+    background-color: #FAEED1;
+}
+
+h1
+{
+    background-color: #BBAB8C;
+}
+
+body.about 
+{
+    background-color: #FAEED1;
+}
+
+.color
+{
+    color: #131312; 
+}
+
+.about h2
+{
+    background-color: #BBAB8C;
+}
+
+.skills-list li span {
+    display: inline-block;
+    width: 120px; /* Adjust the width based on your design */
+}
+
+body.contact
+{
+    background-color: #FAEED1;
+}
+
+body.contact a {
+    color: #0b0b0b; /* Change this to your desired text color */
+}
